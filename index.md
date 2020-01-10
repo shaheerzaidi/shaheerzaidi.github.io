@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Tic Tac Toe](/sample_page)
-<img src="images/tictactoe (2).jpg"/>
+<img src="images/tictactoepic.jpg"/>
 
 ---
 [Student Database](/pdf/sample_presentation.pdf)
