@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 title](http://example.com/)
+- [Project 1](http://example.com/)
 - [Project 2](http://example.com/)
 - [Project 3](http://example.com/)
 - [Project 4](http://example.com/)
