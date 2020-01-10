@@ -5,7 +5,6 @@
 [Tic Tac Toe](/sample_page)
 <br>
 <br>
-<br>
 <img src="images/tictactoe (2).jpg?raw=true"/>
 
 ---
