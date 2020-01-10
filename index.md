@@ -15,7 +15,7 @@
 
 ---
 [Email App](http://example.com/)
-<img src="images/email.jpg?raw=true"/>
+<img src="images/email.JPG?raw=true"/>
 
 ---
 
