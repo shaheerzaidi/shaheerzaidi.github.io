@@ -9,6 +9,7 @@
 
 ---
 [Student Database](/pdf/sample_presentation.pdf)
+<br>
 <img src="images/student db.JPG"/>
 
 ---
