@@ -9,7 +9,7 @@
 
 ---
 [Student Database](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/student db.JPG"/>
 
 ---
 [Email App](http://example.com/)
