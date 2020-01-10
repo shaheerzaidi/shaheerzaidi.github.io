@@ -3,7 +3,7 @@
 ---
 
 [Tic Tac Toe](/sample_page)
-<img src="images/tictactoe150.jpg"/>
+<img src="images/tictactoe150.jpg?raw=true"/>
 
 ---
 [Student Database](/pdf/sample_presentation.pdf)
