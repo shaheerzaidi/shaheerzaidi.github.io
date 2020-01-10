@@ -23,7 +23,7 @@
 - [Project 2](http://example.com/)
 - [Project 3](http://example.com/)
 - [Project 4](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 5](http://example.com/)
 
 ---
 
