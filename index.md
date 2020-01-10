@@ -4,6 +4,7 @@
 
 [Tic Tac Toe](/sample_page)
 <br>
+<br>
 <img src="images/tictactoe150.jpg?raw=true"/>
 
 ---
