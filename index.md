@@ -6,7 +6,7 @@
 <br>
 <br>
 <br>
-<img src="images/tictactoe150.jpg?raw=true"/>
+<img src="images/tictactoe (2).jpg?raw=true"/>
 
 ---
 [Student Database](/pdf/sample_presentation.pdf)
