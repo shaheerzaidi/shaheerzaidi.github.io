@@ -8,26 +8,20 @@
 <img src="images/tictactoe.jpg?raw=true"/>
 
 ---
-[Student Database](/pdf/sample_presentation.pdf)
+[Student Database](https://github.com/shaheerzaidi/StudentDataBaseApp)
 <br>
 <br>
 <img src="images/student db.JPG"/>
 
 ---
-[Email App](http://example.com/)
+[Email App](https://github.com/shaheerzaidi/EmailApp)
 <br>
 <br>
 <img src="images/email2.JPG?raw=true"/>
 
 ---
 
-### Category Name 2
 
-- [Project 1 title](http://example.com/)
-- [Project 2](http://example.com/)
-- [Project 3](http://example.com/)
-- [Project 4](http://example.com/)
-- [Project 5](http://example.com/)
 
 ---
 
