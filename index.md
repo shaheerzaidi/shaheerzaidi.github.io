@@ -2,7 +2,7 @@
 
 ---
 
-[Tic Tac Toe](/sample_page)
+[Tic Tac Toe](https://github.com/shaheerzaidi/TicTacToe)
 <br>
 <br>
 <img src="images/tictactoe.jpg?raw=true"/>
