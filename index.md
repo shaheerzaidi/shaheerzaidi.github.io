@@ -4,8 +4,8 @@
 <a href="https://master.d38sztw0azjj52.amplifyapp.com/">Weather Web Application</a>
 <br>
 <br>
-<img src="images/weatherapp.JPG?raw=true"/>
-<img src="images/weatherapp2.JPG?raw=true"/>
+<img src="images/weatherapp.JPG"/>
+<img src="images/weatherapp2.JPG"/>
 <br>
 <br>
 
