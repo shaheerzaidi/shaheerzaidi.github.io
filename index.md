@@ -11,7 +11,7 @@
 
 [Tic Tac Toe Android App](https://github.com/shaheerzaidi/TicTacToe)
 <br>
-<br> 
+<br>
 <img src="images/tictactoe.jpg?raw=true"/>
 
 ---
