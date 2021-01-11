@@ -5,7 +5,7 @@
 <br>
 <br>
 <img src="images/weatherapp.JPG"/>
-<img src="images/weatherapp2.JPG"/>
+<img src="images/weatherapp2.JPG"/> 
 <br>
 <br>
 
