@@ -12,7 +12,7 @@
 [Tic Tac Toe Android App](https://github.com/shaheerzaidi/TicTacToe)
 <br>
 <br>
-<img src="images/tictactoe.jpg?raw=true"/>
+<img src="images/tictactoe.jpg?raw=true"/> 
 
 ---
 [Student Database](https://github.com/shaheerzaidi/StudentDataBaseApp)
